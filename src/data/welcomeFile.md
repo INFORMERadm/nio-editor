@@ -1,11 +1,11 @@
-# Welcome to StackEdit!
+# Welcome to NIO-Editor!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi! I'm your first Markdown file in **NIO Editor**. If you want to learn about NIO-Editor, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+NIO-Editor stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
 
@@ -63,7 +63,7 @@ Since one file can be synced with multiple locations, you can list and manage sy
 
 # Publication
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+Publishing in NIO-Edit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 
@@ -76,7 +76,7 @@ You can publish your file by opening the **Publish** sub-menu and by clicking **
 
 ## Update a publication
 
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
+After publishing, NIO-Editor keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
 
 > **Note:** The **Publish now** button is disabled if your file has not been published yet.
 
